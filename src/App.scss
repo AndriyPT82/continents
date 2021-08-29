@@ -1,0 +1,50 @@
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.App {
+  width: 700px;
+  margin: auto;
+}
+
+.card {
+  box-shadow: inset 0 0 5px rgb(155, 155, 155);
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  
+  &__info {
+    display: flex;
+    text-align: center;
+    gap: 20px;
+  }
+
+  &__logo {
+    width: 100px;
+    height: 100px;
+  }
+
+  &__name {
+  }
+
+  &__button {
+    align-self: flex-end;
+    height: 40px;
+    width: 160px;
+  }
+  &__language {
+    justify-content: start;
+    flex-direction: column;
+  }
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-left:20px;
+  margin-top: 10px;
+}
