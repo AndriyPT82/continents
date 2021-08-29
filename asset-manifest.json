@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/continents/static/css/main.2cddbb2b.chunk.css",
+    "main.js": "/continents/static/js/main.be91b846.chunk.js",
+    "main.js.map": "/continents/static/js/main.be91b846.chunk.js.map",
+    "runtime-main.js": "/continents/static/js/runtime-main.073477ab.js",
+    "runtime-main.js.map": "/continents/static/js/runtime-main.073477ab.js.map",
+    "static/js/2.01363a52.chunk.js": "/continents/static/js/2.01363a52.chunk.js",
+    "static/js/2.01363a52.chunk.js.map": "/continents/static/js/2.01363a52.chunk.js.map",
+    "index.html": "/continents/index.html",
+    "static/css/main.2cddbb2b.chunk.css.map": "/continents/static/css/main.2cddbb2b.chunk.css.map",
+    "static/js/2.01363a52.chunk.js.LICENSE.txt": "/continents/static/js/2.01363a52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.073477ab.js",
+    "static/js/2.01363a52.chunk.js",
+    "static/css/main.2cddbb2b.chunk.css",
+    "static/js/main.be91b846.chunk.js"
+  ]
+}
